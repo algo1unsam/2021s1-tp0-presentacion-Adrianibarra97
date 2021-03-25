@@ -1,4 +1,4 @@
-import Ejercicio1 
+import Ejercicio1.* 
 
 test "Prueba empanadas" {
 	baigorria.gastar(4000)
